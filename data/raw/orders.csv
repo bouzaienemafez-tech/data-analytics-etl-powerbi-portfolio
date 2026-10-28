@@ -1,0 +1,11 @@
+order_id,order_date,customer_name,segment,region,product_name,category,unit_price,quantity,discount_pct,cost_per_unit
+1001,2026-01-05,Amina Ben Salem,Consumer,Tunis,Laptop Stand,Technology,85.00,2,0.05,47.00
+1002,2026-01-07,Youssef Trabelsi,Corporate,Sfax,Office Chair,Furniture,420.00,1,0.10,260.00
+1003,2026-02-12,Sarah Gharbi,Consumer,Sousse,Notebook Pack,Office Supplies,18.00,8,0.00,7.00
+1004,2026-02-15,Mehdi Ayari,Home Office,Tunis,Wireless Mouse,Technology,55.00,3,0.15,28.00
+1005,2026-03-03,Amina Ben Salem,Consumer,Tunis,Monitor 24in,Technology,310.00,1,0.00,205.00
+1006,2026-03-18,Rim Khelifi,Corporate,Sfax,Office Chair,Furniture,420.00,2,0.05,260.00
+1007,2026-04-09,Walid Jlassi,Home Office,Sousse,Desk Lamp,Furniture,65.00,4,0.10,31.00
+1008,2026-04-22,Sarah Gharbi,Consumer,Sousse,Notebook Pack,Office Supplies,18.00,12,0.05,7.00
+1009,2026-05-11,Mehdi Ayari,Home Office,Tunis,Wireless Mouse,Technology,55.00,5,0.00,28.00
+1010,2026-05-28,Youssef Trabelsi,Corporate,Sfax,Monitor 24in,Technology,310.00,3,0.10,205.00
